@@ -53,8 +53,7 @@ This project effectively showcases a variety of skills essential for any aspirin
 
 ## Author
 
-Durjoy Barua (https://github.com/iamdurjoybarua)
-HackerRank: https://www.hackerrank.com/profile/iamdurjoybarua
+Durjoy Barua (https://github.com/iamdurjoybarua) / HackerRank: https://www.hackerrank.com/profile/iamdurjoybarua
 
 ## License
 
