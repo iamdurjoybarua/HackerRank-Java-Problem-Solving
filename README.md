@@ -28,7 +28,7 @@ Through this project, I aimed not just to find solutions, but to truly grasp the
 
 ## Repository Contents
 
-* **Overview**: In this repository, it contains the Java source code (`.java` files) for the 64 HackerRank problems I solved. Each file is typically named to match the problem, often with comments explaining the solution's logic.
+* In this repository, it contains the Java source code (`.java` files) for the 64 HackerRank problems I solved. Each file is typically named to match the problem, often with comments explaining the solution's logic.
 
 ---
 
