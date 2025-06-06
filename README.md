@@ -28,8 +28,7 @@ Through this project, I aimed not just to find solutions, but to truly grasp the
 
 ## Repository Contents
 
-* **`HackerRank_Java_Assignment.pdf`** (or `.docx`, `.md`): This is the core assignment document. It's a detailed report on the entire problem-solving process, including lessons learned, challenges overcome, and key insights. It also contains the required HackerRank profile link and a screenshot of my progress.
-* **`java_solutions/`** (Optional - include this folder if you're uploading your code): If present, this directory contains the Java source code (`.java` files) for the 64 HackerRank problems I solved. Each file is typically named to match the problem, often with comments explaining the solution's logic.
+* **`HackerRank Java Assignment/`** This directory contains the Java source code (`.java` files) for the 64 HackerRank problems I solved. Each file is typically named to match the problem, often with comments explaining the solution's logic.
 
 ---
 
