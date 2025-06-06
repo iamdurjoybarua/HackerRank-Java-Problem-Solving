@@ -49,7 +49,7 @@ This project effectively showcases a variety of skills essential for any aspirin
 ## How to View and Explore
 
 
-* **Explore the Solutions**: If you're interested in diving into the actual code, navigate to the `HackerRank Java Assignment/` directory to see the implemented solutions for each problem.
+* **Explore the Solutions**: If you're interested in diving into the actual code, navigate to the `HackerRank Java Assignment` directory to see the implemented solutions for each problem.
 
 ## Author
 
