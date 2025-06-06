@@ -48,8 +48,8 @@ This project effectively showcases a variety of skills essential for any aspirin
 
 ## How to View and Explore
 
-* **Read the Assignment**: Start by reviewing the main assignment document (`HackerRank_Java_Assignment.pdf` or other format) to get a comprehensive overview of the project and my learning experience.
-* **Explore the Solutions** (if `java_solutions/` is present): If you're interested in diving into the actual code, navigate to the `java_solutions/` directory to see the implemented solutions for each problem.
+
+* **Explore the Solutions**: If you're interested in diving into the actual code, navigate to the `HackerRank Java Assignment/` directory to see the implemented solutions for each problem.
 
 ## Author
 
